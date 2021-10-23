@@ -23,6 +23,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
 
 .App-link {
   color: #61dafb;
